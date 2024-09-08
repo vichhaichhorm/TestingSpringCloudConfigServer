@@ -1,2 +1,6 @@
 service:
   name: Service A devloper
+spring:
+  datasource:
+    username: devuser
+    password: '{cipher}123Hll'
