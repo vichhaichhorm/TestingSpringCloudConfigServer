@@ -1,2 +1,7 @@
 service:
   name: service A
+spring:
+  datasource:
+    username: devuser
+    password: '{cipher}FKSAJDFGYOS8F7GLHAKERGFHLSAJ' # Encrypted password
+
