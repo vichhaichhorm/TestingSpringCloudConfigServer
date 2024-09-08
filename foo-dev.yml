@@ -1,5 +1,0 @@
-# Application-specific properties for the 'foo' application in the 'dev' profile
-spring:
-  datasource:
-    username: devuser
-    password: '{cipher}EncryptedPasswordHere'
