@@ -1,3 +1,7 @@
 service:
   name: service A
+my:
+  credentials:
+    username: myUsername
+    password: "{cipher}123" # Use an actual encrypted password
 
