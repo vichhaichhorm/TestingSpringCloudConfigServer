@@ -3,5 +3,5 @@ service:
 my:
   credentials:
     username: myUsername
-    password: "{cipher}123" # Use an actual encrypted password
+    password: "{cipher}ENCRYPTED_PASSWORD" # Use an actual encrypted password
 
