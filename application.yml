@@ -1,3 +1,0 @@
-# Shared properties for all applications
-common:
-  message: "This is a common message for all applications"
