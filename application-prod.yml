@@ -1,2 +1,6 @@
 service:
   name: Service A Prod Env
+spring:
+  datasource:
+    username: devuser
+    password: '{cipher}EncryptedPasswordHere'
